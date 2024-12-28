@@ -5,6 +5,7 @@ Domain:Frontend Web Development
 Duration: December 12th, 2024 to January 12th, 2025
 
 Overview of the Portfolio Website Project:
+![Screenshot 2024-12-28 182151](https://github.com/user-attachments/assets/8fcc1df3-ea45-4b4f-a86b-dd46a9ff03f4)
 
 Project:This project involves creating a personal portfolio website to showcase your projects, skills, and experience. The website serves as an online representation of you or your work, allowing potential clients or employers to learn more about your background, expertise, and projects. It also provides a convenient way for visitors to contact you.
 
