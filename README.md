@@ -3,6 +3,7 @@ Company:CODTECH IT SOLUTIONS
 Intern ID :CT08DIF
 Domain:Frontend Web Development
 Duration: December 12th, 2024 to January 12th, 2025
+
 Overview of the Portfolio Website Project:
 
 Project:This project involves creating a personal portfolio website to showcase your projects, skills, and experience. The website serves as an online representation of you or your work, allowing potential clients or employers to learn more about your background, expertise, and projects. It also provides a convenient way for visitors to contact you.
